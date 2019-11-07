@@ -1,5 +1,7 @@
 {
   "name": "ocb",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
